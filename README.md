@@ -25,5 +25,5 @@
 | 03/04/2567 | 15:00-17:00 น. | วิเคราะห์ ออกแบบและกำหนดข้อมูลในชีวิตจริงสำหรับ Test Scenarios ของ E2E Biz  Process Test | พัฒนา Test Scenarios ของ E2E Biz  Process Test สําหรับทดสอบแบบ Automation Test ผ่านทาง User Interface | 120 นาที | Test Source Code สําหรับการทดสอบด้วย Robot Framework ระดับ ป.ตรี บน GITHUB |  | X นาที |
 | 04/04/2567 | 09:00-11:00 น. | วิเคราะห์ ออกแบบและกำหนดข้อมูลในชีวิตจริงสำหรับ Test Scenarios ของ E2E Biz  Process Test | ปรับปรุง Test Source Code ทดสอบแบบ Automation Test ผ่านทาง User Interface ในระดับอนุบาล บน GITHUB | 120 นาที | Test Source Code สําหรับการทดสอบด้วย Robot Framework ระดับ ป.ตรี บน GITHUB |  | X นาที |
 | 04/04/2567 | 11:00-12:00 น. | ตรวจสอบความละเอียด ความครบถ้วนของงานที่ต้องส่งมอบ| ตรวจสอบความละเอียดและความครบถ้วนของ E2E Biz Process, Success Test Scenario, ที่ต้องส่งมอบ, Test Source Code สําหรับการทดสอบด้วย Robot Framework ระดับอนุบาลและป.ตรี  | 120 นาที | E2E Biz Process, Success Test Scenario, ที่ต้องส่งมอบ, Test Source Code สําหรับการทดสอบด้วย Robot Framework ระดับอนุบาลและป.ตรี |  | X นาที |
-| 05/04/2567 |  BUFFER | X | X| X |  | X นาที |
+| 05/04/2567 |  BUFFER | X | X | X | X | | X นาที |
 
